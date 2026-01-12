@@ -1,2 +1,3 @@
-# competition-logistics
-Travel checklists, packing lists, pit setup, and event schedules.
+# Competition Logistics
+
+Travel, packing, and pit setup for ECHO 9595.
